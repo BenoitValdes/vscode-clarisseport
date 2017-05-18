@@ -2,7 +2,7 @@
 
 Clarisse Command Port is a simple extension that allow you to send scripts to Clarisse through VSCode.
 
-Simple press `F1` and write `send to clarisse`.
+Simply press `F1` and write `send to clarisse`.
 
 ## Requirements
 
