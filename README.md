@@ -1,3 +1,5 @@
+# DOESN't WORK YET, PLEASE DO NOT DOWNLOAD
+
 # clarissecomandport README
 
 Clarisse Command Port is a simple extension that allow you to send scripts to Clarisse through VSCode.
@@ -17,6 +19,7 @@ You can set a custom `PORT` and `HOST` in the settings:
 
 ## ToDo
 
+* Find a way to use a file inside the vsix archive...
 * Compile the extension
 * Add an icon
 * Add shortcuts
