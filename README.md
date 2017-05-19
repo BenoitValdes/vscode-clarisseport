@@ -6,8 +6,8 @@ Simply press `F1` and write `send to clarisse`.
 
 ## Requirements
 
-You have to install [Node.js](https://nodejs.org/en/) and install [python-shell](https://github.com/extrabacon/python-shell).
-> npm install -g python-shell
+You have to install active the command port inside clarisse:
+`Edit>Preferences...>Application>Command Port`: Check enable and set the port that you want
 
 ## Extension Settings
 
