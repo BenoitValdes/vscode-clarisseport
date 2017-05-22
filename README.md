@@ -18,5 +18,4 @@ You can set a custom `PORT` and `HOST` in the settings:
 
 ## ToDo
 
-* Add an icon
-* Add shortcuts
+* Add a way to disable the "successfull sent" message with preferences: Mesage/statusBar/disabled will be the choises
